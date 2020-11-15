@@ -1,8 +1,8 @@
 Bu bir Restaurant Projesidir.
 Kullanılan Teknolojiler ve Diller:
 Typscript,
-JS,
-HTML,
+JavaScript,
+HTML,CSS,
 Bootstrap,
 JQuery,
 Angular9,
