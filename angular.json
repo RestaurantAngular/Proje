@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "RestaurantaAngular"
+  "defaultProject": "RestaurantaAngular",
+  "cli": {
+    "analytics": "ce4f9277-78d3-45b4-936d-087937f78c6b"
+  }
 }
